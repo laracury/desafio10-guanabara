@@ -106,3 +106,27 @@ main p{
     background-color: green;
     border-radius: 10px 10px 0px 0px;
 }
+#list{
+    display: flex;
+    flex-direction: column;
+    
+}
+#list div ion-icon{
+    color: black;
+    width: 25px;
+    height: 20px;
+}
+.link-verde{
+    text-decoration: none;
+    color: rgb(16, 73, 16);
+    font-weight: bolder;
+    font-size: 17px;
+}
+footer{
+    background-color: darkgreen;
+    padding: 10px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
